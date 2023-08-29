@@ -1,1 +1,3 @@
-console.log(" not prime")
+
+console.log(" It is not a prime")
+
